@@ -13,15 +13,6 @@ Documentation
 
 https://github.com/sukritimehta21/Financial-Risk-Modelling/blob/main/Documentation/Task%202.pdf
 
-Repository Structure
-
-  Dataset
-  Notebook
-  Dashboard
-  Models
-  Graphs
-  Screenshots
-  Documentation
 
 Author
 
